@@ -1,33 +1,31 @@
-# 🌙 Eid Mubarak Polyglot
+# 🌙 Eid Mubarak Polyglot (50+ Languages)
 
 ![Eid](https://img.shields.io/badge/Holiday-Eid--Mubarak-green?style=for-the-badge)
 
-Celebrating Eid with **50+ Programming Languages**! 🚀
+Celebrating Eid with over **50 Programming Languages**! 🚀
 
 ## 📝 Project Overview
-This repository is a tribute to the global coding community. It contains a single phrase "عيد مبارك" (Eid Mubarak) written in various programming languages.
+This repository is a tribute to the global coding community. It contains the phrase **"عيد مبارك"** (Eid Mubarak) written in more than 50 different programming languages, showcasing everything from industry standards to legacy frameworks and esoteric languages.
 
-## 📂 Languages Structure
+## 📂 Languages Included
 
-| Language | File Name |
+| Category | Examples |
 | :--- | :--- |
-| 🐍 Python | `eid.py` |
-| ☕ Java | `Eid.java` |
-| 🦀 Rust | `eid.rs` |
-| 🐹 Go | `eid.go` |
-| 📜 JavaScript | `eid.js` |
-| 🟦 TypeScript | `eid.ts` |
-| 🎯 Dart | `eid.dart` |
-| 🏎️ C++ | `eid.cpp` |
-| 📱 Swift | `eid.swift` |
-| 💎 Ruby | `eid.rb` |
-| 🐘 PHP | `eid.php` |
-| 🐚 Bash | `eid.sh` |
+| **Mainstream** | Python, JavaScript, Java, C++, C#, Go, Rust, Swift |
+| **Mobile & Web** | Dart, Kotlin, TypeScript, PHP, HTML, CSS |
+| **Data & Systems** | SQL, R, Julia, MATLAB, Zig, Nim, D |
+| **Legacy & Logic** | Fortran, COBOL, Pascal, Lisp, Prolog, Ada |
+| **Scripting** | Bash, PowerShell, Perl, Ruby, Lua, Awk |
+| **Esoteric & Rare** | Brainfuck, Logo, Rexx, Smalltalk, Eiffel |
+
+## 📊 List of Files
+The repository includes a diverse range of extensions:
+`.py`, `.js`, `.cpp`, `.rs`, `.go`, `.java`, `.dart`, `.php`, `.rb`, `.swift`, `.kt`, `.lua`, `.r`, `.pl`, `.sh`, `.ps1`, `.sql`, `.html`, `.css`, `.json`, `.yml`, `.xml`, `.zig`, `.nim`, `.ex`, `.hs`, `.ml`, `.adb`, `.cob`, `.f90`, `.pas`, `.lisp`, `.scm`, `.m`, `.plog`, `.vbs`, `.bat` ... and many more!
 
 ## 🚀 How to Run
-You can run any of these files using their respective compilers or interpreters. For example:
+Most scripts can be executed using their respective compiler or interpreter. 
+Example:
 ```bash
 python3 eid.py
 node eid.js
-gcc eid.c -o eid && ./eid
-```
+gcc eid.c -o eid && ./eid****
