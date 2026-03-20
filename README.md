@@ -1,31 +1,31 @@
-# 🌙 Eid Mubarak Polyglot (50+ Languages)
+# 🌙 مشروع عيد مبارك (بأكثر من 50 لغة برمجة)
 
-![Eid](https://img.shields.io/badge/Holiday-Eid--Mubarak-green?style=for-the-badge)
+![العيد](https://img.shields.io/badge/مناسبة-عيد--مبارك-green?style=for-the-badge)
 
-Celebrating Eid with over **50 Programming Languages**! 🚀
+احتفالاً بالعيد مع أكثر من **50 لغة برمجة** مختلفة! 🚀
 
-## 📝 Project Overview
-This repository is a tribute to the global coding community. It contains the phrase **"عيد مبارك"** (Eid Mubarak) written in more than 50 different programming languages, showcasing everything from industry standards to legacy frameworks and esoteric languages.
+## 📝 نبذة عن المشروع
+هذا المستودع هو إهداء لمجتمع المبرمجين حول العالم. يحتوي على عبارة **"عيد مبارك"** مكتوبة بأكثر من 50 لغة برمجة، تشمل اللغات الأكثر استخداماً، واللغات القديمة، وحتى لغات البرمجة النادرة والغريبة.
 
-## 📂 Languages Included
+## 📂 اللغات المتضمنة
 
-| Category | Examples |
+| الفئة | أمثلة على اللغات |
 | :--- | :--- |
-| **Mainstream** | Python, JavaScript, Java, C++, C#, Go, Rust, Swift |
-| **Mobile & Web** | Dart, Kotlin, TypeScript, PHP, HTML, CSS |
-| **Data & Systems** | SQL, R, Julia, MATLAB, Zig, Nim, D |
-| **Legacy & Logic** | Fortran, COBOL, Pascal, Lisp, Prolog, Ada |
-| **Scripting** | Bash, PowerShell, Perl, Ruby, Lua, Awk |
-| **Esoteric & Rare** | Brainfuck, Logo, Rexx, Smalltalk, Eiffel |
+| **اللغات الأساسية** | Python, JavaScript, Java, C++, C#, Go, Rust, Swift |
+| **الويب والجوال** | Dart, Kotlin, TypeScript, PHP, HTML, CSS |
+| **البيانات والأنظمة** | SQL, R, Julia, MATLAB, Zig, Nim, D |
+| **اللغات القديمة والمنطقية** | Fortran, COBOL, Pascal, Lisp, Prolog, Ada |
+| **لغات السكربت** | Bash, PowerShell, Perl, Ruby, Lua, Awk |
+| **لغات نادرة وغريبة** | Brainfuck, Logo, Rexx, Smalltalk, Eiffel |
 
-## 📊 List of Files
-The repository includes a diverse range of extensions:
-`.py`, `.js`, `.cpp`, `.rs`, `.go`, `.java`, `.dart`, `.php`, `.rb`, `.swift`, `.kt`, `.lua`, `.r`, `.pl`, `.sh`, `.ps1`, `.sql`, `.html`, `.css`, `.json`, `.yml`, `.xml`, `.zig`, `.nim`, `.ex`, `.hs`, `.ml`, `.adb`, `.cob`, `.f90`, `.pas`, `.lisp`, `.scm`, `.m`, `.plog`, `.vbs`, `.bat` ... and many more!
+## 📊 قائمة الملفات
+يحتوي المستودع على مجموعة متنوعة من الامتدادات:
+`.py`, `.js`, `.cpp`, `.rs`, `.go`, `.java`, `.dart`, `.php`, `.rb`, `.swift`, `.kt`, `.lua`, `.r`, `.pl`, `.sh`, `.ps1`, `.sql`, `.html`, `.css`, `.json`, `.yml`, `.xml`, `.zig`, `.nim`, `.ex`, `.hs`, `.ml`, `.adb`, `.cob`, `.f90`, `.pas`, `.lisp`, `.scm`, `.m`, `.plog`, `.vbs`, `.bat` ... وغيرها الكثير!
 
-## 🚀 How to Run
-Most scripts can be executed using their respective compiler or interpreter. 
-Example:
+## 🚀 طريقة التشغيل
+يمكن تشغيل معظم السكربتات باستخدام المفسر (Interpreter) أو المترجم (Compiler) الخاص بكل لغة.
+مثال:
 ```bash
 python3 eid.py
 node eid.js
-gcc eid.c -o eid && ./eid****
+bash eid.sh
